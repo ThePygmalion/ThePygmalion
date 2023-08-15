@@ -5,7 +5,7 @@
 I'm a Computer Science student passionate about software development, data analysis, and exploring various technologies. I love turning complex problems into elegant solutions and constantly seek to expand my skill set. 
 
 <!-- Greeting Giphy -->
-![Hello Giphy](https://media.giphy.com/media/3o6Zt6vNjSe1pVBf7W/giphy.gif)
+![Hello Giphy](https://media.giphy.com/media/xUPGcxWf0Y5UABjji8/giphy.gif)
 
 <!-- About Me -->
 ## About Me
