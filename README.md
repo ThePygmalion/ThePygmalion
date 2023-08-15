@@ -1,16 +1,38 @@
-### Hi there 👋
+<!-- Title -->
+# Hello, I'm Harsh Tyagi! 👋
 
-<!--
-**ThePygmalion/ThePygmalion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Introduction -->
+I'm a Computer Science student passionate about software development, data analysis, and exploring various technologies. I love turning complex problems into elegant solutions and constantly seek to expand my skill set. 
 
-Here are some ideas to get you started:
+<!-- Greeting Giphy -->
+![Hello Giphy](https://media.giphy.com/media/3o6Zt6vNjSe1pVBf7W/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- About Me -->
+## About Me
+- 🎓 Studying Computer Science at ABESIT/AKTU.
+- 💻 Exploring full-stack web development and data analysis.
+- 🌱 Constantly learning and improving my skills.
+- 📚 Love to read about technology trends and advancements.
+
+<!-- MERN Stack and Data Analysis -->
+## My Stacks
+- **Front-end:** React, HTML, CSS, JavaScript
+- **Back-end:** Node.js, Express.js
+- **Database:** MongoDB, MySQL
+- **Version Control:** Git, GitHub
+- **Other Languages:** Python
+- **Data Analysis:** pandas, NumPy, Matplotlib, Jupyter
+
+<!-- GitHub Stats -->
+## GitHub Stats
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+<!-- Contact Me -->
+## Let's Connect
+- LinkedIn: [Harsh Tyagi](https://www.linkedin.com/in/harsh-tyagi-96b7ba1ba/)
+- Twitter: [@yourtwitterhandle](https://twitter.com/PYGmlon)
+- Email: herrersaarc@gmail.com
+- Portfolio: [Portfolio](https://thepygmalion.github.io/Portfolio/)
+
+<!-- Footer -->
+<p align="center">Thanks for visiting my profile! Feel free to reach out and connect.</p>
