@@ -24,6 +24,10 @@ I'm a Computer Science student passionate about software development, data analy
 - **Other Languages:** Python
 - **Data Analysis:** pandas, NumPy, Matplotlib, Jupyter
 
+<!-- LeetCode -->
+## LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/ThePygmalion?theme=unicorn&font=ABeeZee&ext=heatmap)
+
 <!-- GitHub Stats -->
 ## GitHub Stats
 ![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
