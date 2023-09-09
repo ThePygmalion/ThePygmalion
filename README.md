@@ -36,7 +36,7 @@ I'm a Computer Science student passionate about software development, data analy
 <!-- Contact Me -->
 ## Let's Connect
 - LinkedIn: [Harsh Tyagi](https://www.linkedin.com/in/harsh-tyagi-96b7ba1ba/)
-- Twitter: [@yourtwitterhandle](https://twitter.com/PYGmlon)
+- Twitter: [@PYGmlon](https://twitter.com/PYGmlon)
 - Email: herrersaarc@gmail.com
 - Portfolio: [Portfolio](https://thepygmalion.github.io/Portfolio/)
 
