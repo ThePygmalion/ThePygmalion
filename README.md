@@ -31,7 +31,7 @@ I'm a Computer Science student passionate about software development, data analy
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThePygmalion&show_icons=true&theme=radical)
 
 <!-- Contact Me -->
 ## Let's Connect
