@@ -1,10 +1,6 @@
 <!-- Title -->
 # Hello, I'm Harsh Tyagi! 👋
 
-<!-- Greeting Giphy -->
-
-![hi](https://media.tenor.com/uGrhrHVRqi0AAAAC/rick-and-morty-typing.gif)
-
 <!-- Introduction -->
 I'm a Computer Science student passionate about software development, data analysis, and exploring various technologies. I love turning complex problems into elegant solutions and constantly seek to expand my skill set. 
 
