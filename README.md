@@ -21,13 +21,13 @@ I'm a Computer Science student passionate about software development, data analy
 - **Other Languages:** Python
 - **Data Analysis:** pandas, NumPy, Matplotlib, Jupyter
 
-<!-- LeetCode -->
+<!-- LeetCode 
 ## LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/ThePygmalion?theme=unicorn&font=ABeeZee&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ThePygmalion?theme=unicorn&font=ABeeZee&ext=heatmap) -->
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats
 ## GitHub Stats
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThePygmalion&show_icons=true&theme=radical)
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThePygmalion&show_icons=true&theme=radical) -->
 
 <!-- Contact Me -->
 ## Let's Connect
