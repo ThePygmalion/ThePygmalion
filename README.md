@@ -14,6 +14,3 @@
 - LinkedIn: [Harsh Tyagi](https://www.linkedin.com/in/harsh-tyagi-96b7ba1ba/)
 - Twitter: [@PYGmlon](https://twitter.com/PYGmlon)
 - Email: herrersaarc@gmail.com
-
-<!-- Footer -->
-<p align="center">Thanks for visiting my profile! Feel free to reach out and connect.</p>
